@@ -1,0 +1,25 @@
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Release\Studentski servis.exe.config
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\bin\Release\Baza.sdf
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\bin\Release\Studentski servis.exe
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\bin\Release\Studentski servis.pdb
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.pocetna.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Glavno.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Opcije.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Prijava.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Properties.Resources.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.registracija.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski servis.csproj.GenerateResource.Cache
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski servis.exe
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski servis.pdb
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Predmeti.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Uplate.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.UplateSkolarine.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Pitanje.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Profesor.resources
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Interop.AcroPDFLib.dll
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski servis.csproj.ResolveComReference.cache
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski_servis.Ispiti.resources
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Release\Studentski servis.csprojResolveAssemblyReference.cache

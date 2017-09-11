@@ -1,0 +1,179 @@
+C:\Users\Username\AppData\Local\Temporary Projects\Studentski servis\bin\Debug\Studentski servis.exe
+C:\Users\Username\AppData\Local\Temporary Projects\Studentski servis\bin\Debug\Studentski servis.pdb
+C:\Users\Username\AppData\Local\Temporary Projects\Studentski servis\obj\x86\Debug\Studentski_servis.pocetna.resources
+C:\Users\Username\AppData\Local\Temporary Projects\Studentski servis\obj\x86\Debug\Studentski_servis.Properties.Resources.resources
+C:\Users\Username\AppData\Local\Temporary Projects\Studentski servis\obj\x86\Debug\Studentski servis.csproj.GenerateResource.Cache
+C:\Users\Username\AppData\Local\Temporary Projects\Studentski servis\obj\x86\Debug\Studentski servis.exe
+C:\Users\Username\AppData\Local\Temporary Projects\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Debug\Studentski servis.exe
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Debug\Studentski servis.pdb
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.pocetna.resources
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Properties.Resources.resources
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.GenerateResource.Cache
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Glavno.resources
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.csprojResolveAssemblyReference.cache
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Debug\Baza.sdf
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.registracija.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Opcije.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Prijava.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Uplate.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Predmeti.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.UplateSkolarine.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Profesor.resources
+C:\Users\Username\documents\visual studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Pitanje.resources
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Ispiti.resources
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Username\Documents\Visual Studio 2010\Projects\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.ResolveComReference.cache
+H:\Studentski servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Interop.AcroPDFLib.dll
+H:\Studentski servis\Studentski servis\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.ResolveComReference.cache
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+H:\Studentski servis\Studentski servis\bin\Debug\Baza.sdf
+H:\Studentski servis\Studentski servis\bin\Debug\Studentski servis.exe
+H:\Studentski servis\Studentski servis\bin\Debug\Studentski servis.pdb
+H:\Studentski servis\Studentski servis\bin\Debug\Interop.AcroPDFLib.dll
+H:\Studentski servis\Studentski servis\bin\Debug\AxInterop.AcroPDFLib.dll
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.csprojResolveAssemblyReference.cache
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Ispiti.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Pitanje.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Predmeti.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.pocetna.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Glavno.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Opcije.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Prijava.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Profesor.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Properties.Resources.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.registracija.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.Uplate.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski_servis.UplateSkolarine.resources
+H:\Studentski servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.GenerateResource.Cache
+H:\Projekti\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+H:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Interop.AcroPDFLib.dll
+H:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+H:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.ResolveComReference.cache
+H:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+H:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+I:\Projekti\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Interop.AcroPDFLib.dll
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.ResolveComReference.cache
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+I:\Projekti\Studentski Servis\Studentski servis\bin\Debug\Baza.sdf
+I:\Projekti\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe
+I:\Projekti\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.pdb
+I:\Projekti\Studentski Servis\Studentski servis\bin\Debug\Interop.AcroPDFLib.dll
+I:\Projekti\Studentski Servis\Studentski servis\bin\Debug\AxInterop.AcroPDFLib.dll
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csprojResolveAssemblyReference.cache
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Ispiti.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Pitanje.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Predmeti.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.pocetna.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Glavno.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Opcije.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Prijava.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Profesor.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Properties.Resources.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.registracija.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Uplate.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.UplateSkolarine.resources
+I:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.GenerateResource.Cache
+G:\Projekti\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+G:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Interop.AcroPDFLib.dll
+G:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+G:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.ResolveComReference.cache
+G:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+G:\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.ResolveComReference.cache
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\bin\Debug\Baza.sdf
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.pdb
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Ispiti.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Pitanje.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Predmeti.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.pocetna.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Glavno.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Opcije.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Prijava.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Profesor.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Properties.Resources.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.registracija.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Uplate.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.UplateSkolarine.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.ResolveComReference.cache
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\bin\Debug\Baza.sdf
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.pdb
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Ispiti.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Pitanje.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Predmeti.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.pocetna.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Glavno.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Opcije.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Prijava.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Profesor.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Properties.Resources.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.registracija.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Uplate.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.UplateSkolarine.resources
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stevo PC\Desktop\Matematika\III GODINA\V semestar\Informacioni sistemi\Projekati\Studentski Servis\Studentski servis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\bin\Debug\Baza.sdf
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.pdb
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Ispiti.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Pitanje.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Predmeti.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.pocetna.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Glavno.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Opcije.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Prijava.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Profesor.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Properties.Resources.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.registracija.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Uplate.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.UplateSkolarine.resources
+C:\Users\xxx\Desktop\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.GenerateResource.Cache
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe.config
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.exe
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.pdb
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\bin\Debug\Baza.sdf
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.exe
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\bin\Debug\Studentski servis.pdb
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Ispiti.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Pitanje.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Predmeti.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.pocetna.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Glavno.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Opcije.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Prijava.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Profesor.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Properties.Resources.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.registracija.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.Uplate.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski_servis.UplateSkolarine.resources
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\obj\x86\Debug\Studentski servis.csproj.GenerateResource.Cache
+C:\Users\xxx\Desktop\Projekti\Studentski Servis\Studentski servis\bin\Debug\System.Data.SqlServerCe.dll
